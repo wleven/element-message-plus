@@ -1,6 +1,6 @@
 {
   "name": "element-message-plus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ElementUI Message 组件增强插件",
   "main": "lib/index.js",
   "types": "types/index.d.ts",
