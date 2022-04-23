@@ -1,6 +1,6 @@
 # element-message-plus
 
-ElementUI `Message` 组件增强####
+ElementUI `Message` 组件增强
 
 同一时间，相同`type`和`message`的组件实例只允许创建一次,
 
