@@ -6,8 +6,13 @@ ElementUI `Message` 组件增强####
 
 解决多个相同的 message 会重复创建显示
 
-## 安装
+## 安装依赖
 
+```
+pnpm install element-message-plus
+```
+
+## 全局引入
 ```js
 import Vue from "vue";
 import App from "./App.vue";
